@@ -1,0 +1,49 @@
+/* Global styles for the document */
+body {
+    background-color: #FFFFFF;
+    color: #666666;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+/* Styles for the header element */
+header {
+    background-color: #002171;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+}
+
+/* Styles for the h1 element */
+h1 {
+    line-height: 200%;
+}
+
+/* Styles for the nav element */
+nav {
+    font-weight: bold;
+    background-color: #BBDEFB;
+}
+
+/* Styles for the h2 element */
+h2 {
+    color: #1976D2;
+    font-family: Georgia, serif;
+}
+
+/* Styles for the dt element */
+dt {
+    color: #002171;
+    font-weight: bold;
+}
+
+/* Styles for the resort class */
+.resort {
+    color: #1976D2;
+    font-size: 1.2em;
+}
+
+/* Styles for the footer element */
+footer {
+    font-size: 0.70em;
+    font-style: italic;
+    text-align: center;
+}
